@@ -1024,8 +1024,8 @@
 }
 
 .svg-elem-41 {
-  -webkit-animation: animate-svg-fill-41 0.7s ease 4.8s both;
-          animation: animate-svg-fill-41 0.7s ease 4.8s both;
+  -webkit-animation: animate-svg-fill-41 0.7s ease 4.8s both infinite alternate; 
+          animation: animate-svg-fill-41 0.7s ease 4.8s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-42 {
@@ -1049,8 +1049,8 @@
 }
 
 .svg-elem-42 {
-  -webkit-animation: animate-svg-fill-42 0.7s ease 4.9s both;
-          animation: animate-svg-fill-42 0.7s ease 4.9s both;
+  -webkit-animation: animate-svg-fill-42 0.7s ease 4.9s both infinite alternate;
+          animation: animate-svg-fill-42 0.7s ease 4.9s both  infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-43 {
@@ -1074,8 +1074,8 @@
 }
 
 .svg-elem-43 {
-  -webkit-animation: animate-svg-fill-43 0.7s ease 5s both;
-          animation: animate-svg-fill-43 0.7s ease 5s both;
+  -webkit-animation: animate-svg-fill-43 0.7s ease 5s both infinite alternate;
+          animation: animate-svg-fill-43 0.7s ease 5s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-44 {
@@ -1099,8 +1099,8 @@
 }
 
 .svg-elem-44 {
-  -webkit-animation: animate-svg-fill-44 0.7s ease 5.1s both;
-          animation: animate-svg-fill-44 0.7s ease 5.1s both;
+  -webkit-animation: animate-svg-fill-44 0.7s ease 5.1s both infinite alternate;
+          animation: animate-svg-fill-44 0.7s ease 5.1s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-45 {
@@ -1124,8 +1124,8 @@
 }
 
 .svg-elem-45 {
-  -webkit-animation: animate-svg-fill-45 0.7s ease 5.2s both;
-          animation: animate-svg-fill-45 0.7s ease 5.2s both;
+  -webkit-animation: animate-svg-fill-45 0.7s ease 5.2s both infinite alternate;
+          animation: animate-svg-fill-45 0.7s ease 5.2s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-46 {
@@ -1149,8 +1149,8 @@
 }
 
 .svg-elem-46 {
-  -webkit-animation: animate-svg-fill-46 0.7s ease 5.3s both;
-          animation: animate-svg-fill-46 0.7s ease 5.3s both;
+  -webkit-animation: animate-svg-fill-46 0.7s ease 5.3s both infinite alternate;
+          animation: animate-svg-fill-46 0.7s ease 5.3s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-47 {
@@ -1174,8 +1174,8 @@
 }
 
 .svg-elem-47 {
-  -webkit-animation: animate-svg-fill-47 0.7s ease 5.4s both;
-          animation: animate-svg-fill-47 0.7s ease 5.4s both;
+  -webkit-animation: animate-svg-fill-47 0.7s ease 5.4s both infinite alternate;
+          animation: animate-svg-fill-47 0.7s ease 5.4s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-48 {
@@ -1199,8 +1199,8 @@
 }
 
 .svg-elem-48 {
-  -webkit-animation: animate-svg-fill-48 0.7s ease 5.5s both;
-          animation: animate-svg-fill-48 0.7s ease 5.5s both;
+  -webkit-animation: animate-svg-fill-48 0.7s ease 5.5s both infinite alternate;
+          animation: animate-svg-fill-48 0.7s ease 5.5s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-49 {
@@ -1224,8 +1224,8 @@
 }
 
 .svg-elem-49 {
-  -webkit-animation: animate-svg-fill-49 0.7s ease 5.6000000000000005s both;
-          animation: animate-svg-fill-49 0.7s ease 5.6000000000000005s both;
+  -webkit-animation: animate-svg-fill-49 0.7s ease 5.6000000000000005s both infinite alternate;
+          animation: animate-svg-fill-49 0.7s ease 5.6000000000000005s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-50 {
@@ -1249,8 +1249,8 @@
 }
 
 .svg-elem-50 {
-  -webkit-animation: animate-svg-fill-50 0.7s ease 5.7s both;
-          animation: animate-svg-fill-50 0.7s ease 5.7s both;
+  -webkit-animation: animate-svg-fill-50 0.7s ease 5.7s both infinite alternate;
+          animation: animate-svg-fill-50 0.7s ease 5.7s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-51 {
@@ -1274,8 +1274,8 @@
 }
 
 .svg-elem-51 {
-  -webkit-animation: animate-svg-fill-51 0.7s ease 5.8s both;
-          animation: animate-svg-fill-51 0.7s ease 5.8s both;
+  -webkit-animation: animate-svg-fill-51 0.7s ease 5.8s both infinite alternate;
+          animation: animate-svg-fill-51 0.7s ease 5.8s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-52 {
@@ -1299,8 +1299,8 @@
 }
 
 .svg-elem-52 {
-  -webkit-animation: animate-svg-fill-52 0.7s ease 5.9s both;
-          animation: animate-svg-fill-52 0.7s ease 5.9s both;
+  -webkit-animation: animate-svg-fill-52 0.7s ease 5.9s both infinite alternate;
+          animation: animate-svg-fill-52 0.7s ease 5.9s both infinite alternate; 
 }
 
 @-webkit-keyframes animate-svg-fill-53 {
@@ -1324,8 +1324,8 @@
 }
 
 .svg-elem-53 {
-  -webkit-animation: animate-svg-fill-53 0.7s ease 6s both;
-          animation: animate-svg-fill-53 0.7s ease 6s both;
+  -webkit-animation: animate-svg-fill-53 0.7s ease 6s both infinite alternate;
+          animation: animate-svg-fill-53 0.7s ease 6s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-54 {
@@ -1349,8 +1349,8 @@
 }
 
 .svg-elem-54 {
-  -webkit-animation: animate-svg-fill-54 0.7s ease 6.1000000000000005s both;
-          animation: animate-svg-fill-54 0.7s ease 6.1000000000000005s both;
+  -webkit-animation: animate-svg-fill-54 0.7s ease 6.1000000000000005s both infinite alternate;
+          animation: animate-svg-fill-54 0.7s ease 6.1000000000000005s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-55 {
@@ -1374,8 +1374,8 @@
 }
 
 .svg-elem-55 {
-  -webkit-animation: animate-svg-fill-55 0.7s ease 6.2s both;
-          animation: animate-svg-fill-55 0.7s ease 6.2s both;
+  -webkit-animation: animate-svg-fill-55 0.7s ease 6.2s both infinite alternate;
+          animation: animate-svg-fill-55 0.7s ease 6.2s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-56 {
@@ -1399,8 +1399,8 @@
 }
 
 .svg-elem-56 {
-  -webkit-animation: animate-svg-fill-56 0.7s ease 6.3s both;
-          animation: animate-svg-fill-56 0.7s ease 6.3s both;
+  -webkit-animation: animate-svg-fill-56 0.7s ease 6.3s both infinite alternate;
+          animation: animate-svg-fill-56 0.7s ease 6.3s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-57 {
@@ -1424,8 +1424,8 @@
 }
 
 .svg-elem-57 {
-  -webkit-animation: animate-svg-fill-57 0.7s ease 6.4s both;
-          animation: animate-svg-fill-57 0.7s ease 6.4s both;
+  -webkit-animation: animate-svg-fill-57 0.7s ease 6.4s both infinite alternate;
+          animation: animate-svg-fill-57 0.7s ease 6.4s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-58 {
@@ -1449,8 +1449,8 @@
 }
 
 .svg-elem-58 {
-  -webkit-animation: animate-svg-fill-58 0.7s ease 6.5s both;
-          animation: animate-svg-fill-58 0.7s ease 6.5s both;
+  -webkit-animation: animate-svg-fill-58 0.7s ease 6.5s both infinite alternate;
+          animation: animate-svg-fill-58 0.7s ease 6.5s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-59 {
@@ -1474,8 +1474,8 @@
 }
 
 .svg-elem-59 {
-  -webkit-animation: animate-svg-fill-59 0.7s ease 6.6000000000000005s both;
-          animation: animate-svg-fill-59 0.7s ease 6.6000000000000005s both;
+  -webkit-animation: animate-svg-fill-59 0.7s ease 6.6000000000000005s both infinite alternate;
+          animation: animate-svg-fill-59 0.7s ease 6.6000000000000005s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-60 {
@@ -1499,8 +1499,8 @@
 }
 
 .svg-elem-60 {
-  -webkit-animation: animate-svg-fill-60 0.7s ease 6.7s both;
-          animation: animate-svg-fill-60 0.7s ease 6.7s both;
+  -webkit-animation: animate-svg-fill-60 0.7s ease 6.7s both infinite alternate;
+          animation: animate-svg-fill-60 0.7s ease 6.7s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-61 {
@@ -1524,8 +1524,8 @@
 }
 
 .svg-elem-61 {
-  -webkit-animation: animate-svg-fill-61 0.7s ease 6.8s both;
-          animation: animate-svg-fill-61 0.7s ease 6.8s both;
+  -webkit-animation: animate-svg-fill-61 0.7s ease 6.8s both infinite alternate;
+          animation: animate-svg-fill-61 0.7s ease 6.8s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-62 {
@@ -1549,8 +1549,8 @@
 }
 
 .svg-elem-62 {
-  -webkit-animation: animate-svg-fill-62 0.7s ease 6.9s both;
-          animation: animate-svg-fill-62 0.7s ease 6.9s both;
+  -webkit-animation: animate-svg-fill-62 0.7s ease 6.9s both infinite alternate;
+          animation: animate-svg-fill-62 0.7s ease 6.9s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-63 {
@@ -1574,8 +1574,8 @@
 }
 
 .svg-elem-63 {
-  -webkit-animation: animate-svg-fill-63 0.7s ease 7s both;
-          animation: animate-svg-fill-63 0.7s ease 7s both;
+  -webkit-animation: animate-svg-fill-63 0.7s ease 7s both infinite alternate;
+          animation: animate-svg-fill-63 0.7s ease 7s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-64 {
@@ -1599,8 +1599,8 @@
 }
 
 .svg-elem-64 {
-  -webkit-animation: animate-svg-fill-64 0.7s ease 7.1000000000000005s both;
-          animation: animate-svg-fill-64 0.7s ease 7.1000000000000005s both;
+  -webkit-animation: animate-svg-fill-64 0.7s ease 7.1000000000000005s both infinite alternate;
+          animation: animate-svg-fill-64 0.7s ease 7.1000000000000005s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-65 {
@@ -1624,8 +1624,8 @@
 }
 
 .svg-elem-65 {
-  -webkit-animation: animate-svg-fill-65 0.7s ease 7.2s both;
-          animation: animate-svg-fill-65 0.7s ease 7.2s both;
+  -webkit-animation: animate-svg-fill-65 0.7s ease 7.2s both infinite alternate;
+          animation: animate-svg-fill-65 0.7s ease 7.2s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-66 {
@@ -1649,8 +1649,8 @@
 }
 
 .svg-elem-66 {
-  -webkit-animation: animate-svg-fill-66 0.7s ease 7.3s both;
-          animation: animate-svg-fill-66 0.7s ease 7.3s both;
+  -webkit-animation: animate-svg-fill-66 0.7s ease 7.3s both infinite alternate;
+          animation: animate-svg-fill-66 0.7s ease 7.3s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-67 {
@@ -1674,8 +1674,8 @@
 }
 
 .svg-elem-67 {
-  -webkit-animation: animate-svg-fill-67 0.7s ease 7.4s both;
-          animation: animate-svg-fill-67 0.7s ease 7.4s both;
+  -webkit-animation: animate-svg-fill-67 0.7s ease 7.4s both infinite alternate;
+          animation: animate-svg-fill-67 0.7s ease 7.4s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-68 {
@@ -1699,8 +1699,8 @@
 }
 
 .svg-elem-68 {
-  -webkit-animation: animate-svg-fill-68 0.7s ease 7.5s both;
-          animation: animate-svg-fill-68 0.7s ease 7.5s both;
+  -webkit-animation: animate-svg-fill-68 0.7s ease 7.5s both infinite alternate;
+          animation: animate-svg-fill-68 0.7s ease 7.5s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-69 {
@@ -1724,8 +1724,8 @@
 }
 
 .svg-elem-69 {
-  -webkit-animation: animate-svg-fill-69 0.7s ease 7.6000000000000005s both;
-          animation: animate-svg-fill-69 0.7s ease 7.6000000000000005s both;
+  -webkit-animation: animate-svg-fill-69 0.7s ease 7.6000000000000005s both infinite alternate;
+          animation: animate-svg-fill-69 0.7s ease 7.6000000000000005s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-70 {
@@ -1749,8 +1749,8 @@
 }
 
 .svg-elem-70 {
-  -webkit-animation: animate-svg-fill-70 0.7s ease 7.7s both;
-          animation: animate-svg-fill-70 0.7s ease 7.7s both;
+  -webkit-animation: animate-svg-fill-70 0.7s ease 7.7s both infinite alternate;
+          animation: animate-svg-fill-70 0.7s ease 7.7s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-71 {
@@ -1774,8 +1774,8 @@
 }
 
 .svg-elem-71 {
-  -webkit-animation: animate-svg-fill-71 0.7s ease 7.8s both;
-          animation: animate-svg-fill-71 0.7s ease 7.8s both;
+  -webkit-animation: animate-svg-fill-71 0.7s ease 7.8s both infinite alternate;
+          animation: animate-svg-fill-71 0.7s ease 7.8s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-72 {
@@ -1799,8 +1799,8 @@
 }
 
 .svg-elem-72 {
-  -webkit-animation: animate-svg-fill-72 0.7s ease 7.9s both;
-          animation: animate-svg-fill-72 0.7s ease 7.9s both;
+  -webkit-animation: animate-svg-fill-72 0.7s ease 7.9s both infinite alternate;
+          animation: animate-svg-fill-72 0.7s ease 7.9s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-73 {
@@ -1824,8 +1824,8 @@
 }
 
 .svg-elem-73 {
-  -webkit-animation: animate-svg-fill-73 0.7s ease 8s both;
-          animation: animate-svg-fill-73 0.7s ease 8s both;
+  -webkit-animation: animate-svg-fill-73 0.7s ease 8s both infinite alternate;
+          animation: animate-svg-fill-73 0.7s ease 8s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-74 {
@@ -1849,8 +1849,8 @@
 }
 
 .svg-elem-74 {
-  -webkit-animation: animate-svg-fill-74 0.7s ease 8.100000000000001s both;
-          animation: animate-svg-fill-74 0.7s ease 8.100000000000001s both;
+  -webkit-animation: animate-svg-fill-74 0.7s ease 8.100000000000001s both infinite alternate;
+          animation: animate-svg-fill-74 0.7s ease 8.100000000000001s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-75 {
@@ -1874,8 +1874,8 @@
 }
 
 .svg-elem-75 {
-  -webkit-animation: animate-svg-fill-75 0.7s ease 8.200000000000001s both;
-          animation: animate-svg-fill-75 0.7s ease 8.200000000000001s both;
+  -webkit-animation: animate-svg-fill-75 0.7s ease 8.200000000000001s both infinite alternate;
+          animation: animate-svg-fill-75 0.7s ease 8.200000000000001s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-76 {
@@ -1899,8 +1899,8 @@
 }
 
 .svg-elem-76 {
-  -webkit-animation: animate-svg-fill-76 0.7s ease 8.3s both;
-          animation: animate-svg-fill-76 0.7s ease 8.3s both;
+  -webkit-animation: animate-svg-fill-76 0.7s ease 8.3s both infinite alternate;
+          animation: animate-svg-fill-76 0.7s ease 8.3s both infinite alternate;
 }
 /*lineas de codigo */
 
@@ -4282,132 +4282,11 @@
   -webkit-animation: animate-svg-fill-93 0.7s ease 10.000000000000002s both;
           animation: animate-svg-fill-93 0.7s ease 10.000000000000002s both;
 }
-/*codigo  dos*/
-@-webkit-keyframes animate-svg-fill-94 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(64, 158, 201);
-  }
-}
-
-@keyframes animate-svg-fill-94 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(64, 158, 201);
-  }
-}
-
-.svg-elem-94 {
-  -webkit-animation: animate-svg-fill-94 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-94 0.7s ease 10.000000000000002s both;
-}
-
-@-webkit-keyframes animate-svg-fill-95 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(64, 158, 201);
-  }
-}
-
-@keyframes animate-svg-fill-95 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(64, 158, 201);
-  }
-}
-
-.svg-elem-95 {
-  -webkit-animation: animate-svg-fill-95 0.7s ease 10.1s both;
-          animation: animate-svg-fill-95 0.7s ease 10.1s both;
-}
-
-@-webkit-keyframes animate-svg-fill-96 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(230, 230, 230);
-  }
-}
-
-@keyframes animate-svg-fill-96 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(230, 230, 230);
-  }
-}
-
-.svg-elem-96 {
-  -webkit-animation: animate-svg-fill-96 0.7s ease 10.3s both;
-          animation: animate-svg-fill-96 0.7s ease 10.3s both;
-}
-
-@-webkit-keyframes animate-svg-fill-97 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(230, 230, 230);
-  }
-}
-
-@keyframes animate-svg-fill-97 {
-  0% {
-    fill: transparent;
-  }
-
-  100% {
-    fill: rgb(230, 230, 230);
-  }
-}
-
-.svg-elem-97 {
-  -webkit-animation: animate-svg-fill-97 0.7s ease 10.6s both;
-          animation: animate-svg-fill-97 0.7s ease 10.6s both;
-}
-
+/*codigo  dos/
 /*persona*/
-@-webkit-keyframes animate-svg-fill-77 {
-  0% {
-    fill: transparent;
-  }
 
-  100% {
-    fill: rgb(255, 182, 182);
-  }
-}
 
-@keyframes animate-svg-fill-77 {
-  0% {
-    fill: transparent;
-  }
 
-  100% {
-    fill: rgb(255, 182, 182);
-  }
-}
-
-.svg-elem-77 {
-  -webkit-animation: animate-svg-fill-77 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-77 0.7s ease 10.000000000000002s both;
-}
  
 @-webkit-keyframes animate-svg-fill-98 {
   0% {
@@ -4937,8 +4816,8 @@
 }
 
 .svg-elem-94 {
-  -webkit-animation: animate-svg-fill-94 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-94 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-94 0.7s ease 10.0000050000000002s both infinite alternate;
+          animation: animate-svg-fill-94 0.7s ease 10.0000050000000002s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-95 {
@@ -4962,8 +4841,8 @@
 }
 
 .svg-elem-95 {
-  -webkit-animation: animate-svg-fill-95 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-95 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-95 0.7s ease 10.2s both infinite alternate;
+          animation: animate-svg-fill-95 0.7s ease 10.2s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-96 {
@@ -4987,8 +4866,8 @@
 }
 
 .svg-elem-96 {
-  -webkit-animation: animate-svg-fill-96 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-96 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-96 0.7s ease 10.4s both infinite alternate;
+          animation: animate-svg-fill-96 0.7s ease 10.4s both infinite alternate;
 }
 
 @-webkit-keyframes animate-svg-fill-97 {
@@ -5012,8 +4891,8 @@
 }
 
 .svg-elem-97 {
-  -webkit-animation: animate-svg-fill-97 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-97 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-97 0.7s ease 10.6s both infinite alternate;
+          animation: animate-svg-fill-97 0.7s ease 10.6s both infinite alternate;
 }
 
 /*persona*/
@@ -5030,18 +4909,33 @@
 @keyframes animate-svg-fill-77 {
   0% {
     fill: transparent;
+    
   }
 
   100% {
     fill: rgb(255, 182, 182);
+   
   }
 }
 
 .svg-elem-77 {
-  -webkit-animation: animate-svg-fill-77 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-77 0.7s ease 10.000000000000002s both;
-}
+  -webkit-animation: animate-svg-fill-77 0.7s ease 10.000000000000002s both ;
+          animation: animate-svg-fill-77 0.7s ease 10.000000000000002s both, shimmy 0.9s ease 11.000000000000002s both infinite alternate;
+                    
+         
+
  
+}
+
+
+@keyframes shimmy {
+  0% {
+    transform: translate(-206.59003px , -163.871130px);  
+  }
+  100% {
+     transform: translate(-206.5900px , -175.07113px);
+  }
+  }
 @-webkit-keyframes animate-svg-fill-98 {
   0% {
     fill: transparent;
@@ -5063,8 +4957,8 @@
 }
 
 .svg-elem-98 {
-  -webkit-animation: animate-svg-fill-98 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-98 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-98 0.7s ease 8.000000000000002s both;
+          animation: animate-svg-fill-98 0.7s ease 8.000000000000002s both;
 }
 
 @-webkit-keyframes animate-svg-fill-99 {
@@ -5088,8 +4982,8 @@
 }
 
 .svg-elem-99 {
-  -webkit-animation: animate-svg-fill-99 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-99 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-99 0.7s ease 8.000000000000002s both;
+          animation: animate-svg-fill-99 0.7s ease 8.000000000000002s both;
 }
 
 @-webkit-keyframes animate-svg-fill-100 {
@@ -5113,8 +5007,8 @@
 }
 
 .svg-elem-100 {
-  -webkit-animation: animate-svg-fill-100 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-100 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-100 0.7s ease 8.000000000000002s both;
+          animation: animate-svg-fill-100 0.7s ease 8.00000000000002s both;
 }
 
 @-webkit-keyframes animate-svg-fill-101 {
@@ -5138,8 +5032,8 @@
 }
 
 .svg-elem-101 {
-  -webkit-animation: animate-svg-fill-101 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-101 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-101 0.7s ease 8.00000000000002s both;
+          animation: animate-svg-fill-101 0.7s ease 8.00000000000002s both;
 }
 
 @-webkit-keyframes animate-svg-fill-102 {
@@ -5163,8 +5057,8 @@
 }
 
 .svg-elem-102 {
-  -webkit-animation: animate-svg-fill-102 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-102 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-102 0.7s ease 8.000000000000002s both;
+          animation: animate-svg-fill-102 0.7s ease 8.000000000000002s both;
 }
 
 @-webkit-keyframes animate-svg-fill-103 {
@@ -5188,8 +5082,8 @@
 }
 
 .svg-elem-103 {
-  -webkit-animation: animate-svg-fill-103 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-103 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-103 0.7s ease 8.000000000000002s both;
+          animation: animate-svg-fill-103 0.7s ease 8.000000000000002s both;
 }
 
 @-webkit-keyframes animate-svg-fill-104 {
@@ -5213,6 +5107,6 @@
 }
 
 .svg-elem-104 {
-  -webkit-animation: animate-svg-fill-104 0.7s ease 10.000000000000002s both;
-          animation: animate-svg-fill-104 0.7s ease 10.000000000000002s both;
+  -webkit-animation: animate-svg-fill-104 0.7s ease 8.000000000000002s both;
+          animation: animate-svg-fill-104 0.7s ease 8.000000000000002s both;
 }
