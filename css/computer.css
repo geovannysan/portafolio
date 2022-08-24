@@ -2948,7 +2948,7 @@
 
 .svg-program-77 {
   -webkit-animation: animate-svg-fill-77 0.7s ease 4.000000000000002s both ;
-          animation: animate-svg-fill-77 0.7s ease 4.000000000000002s both, shimmy 0.9s ease 11.000000000000002s both infinite alternate;
+          animation: animate-svg-fill-77 0.7s ease 4.000000000000002s both, shimmy 0.9s ease 4.000000000000002s both infinite alternate;
                     
          
 
@@ -3135,6 +3135,6 @@
 }
 
 .svg-program-104 {
-  -webkit-animation: animate-svg-fill-104 0.7s ease 7.000000000000002s both;
-          animation: animate-svg-fill-104 0.7s ease 475.000000000000002s both;
+  -webkit-animation: animate-svg-fill-104 0.7s ease 4.000000000000002s both;
+          animation: animate-svg-fill-104 0.7s ease 4.000000000000002s both;
 }
