@@ -110,7 +110,7 @@ filter: FlipV; /* Internet Explorer */
       }
        header {
         position: relative;
-        height: 550px;
+        height: 540px;
         background: #2596be;
         background-image: linear-gradient(155deg, #2596be 0%, #2596be 50%, #138b89 100%);
        
@@ -143,24 +143,31 @@ filter: FlipV; /* Internet Explorer */
 
 .diagonal-shape.bl-to-tr {
   height: 0;
+  width: 100%;
+  margin: 0;
   border-style: solid;
   border-width: 0 0 100px 100vw;
   border-color: transparent #2596be #2596be transparent;
 }
 .diagonal-shape.tr-to-bl {
   height: 0;
+  width: 100%;
+  margin: 0;
   border-style: solid;
   border-width: 100px 100vw 0 0;
   border-color: #2596be transparent transparent #2596be;
 }
 .diagonal-shape.tl-to-br {
   height: 0;
+  width: 100%;
+  margin: 0;
   border-style: solid;
   border-width: 0 100vw 100px 0;
   border-color: transparent transparent #2596be #2596be;
 }
 .diagonal-shape.br-to-tl {
   height: 0;
+  width: 100%;
   border-style: solid;
   border-width: 100px 0 0 100vw;
   border-color: #2596be #0F62FE transparent transparent;
@@ -170,6 +177,7 @@ filter: FlipV; /* Internet Explorer */
    justify-content: center;
    align-items: center;
     background-color: #2596be;
+    border-style: none;
     color: white;
     text-align: center;
     
@@ -178,7 +186,52 @@ filter: FlipV; /* Internet Explorer */
   align-items: center;
   text-align: center;
 }
+#undraw_progressive_app_m-9-ms-s-g1
+{
+  animation: mano  4s both infinite alternate ;
 
+  transform-origin: bottom;
+  transform-box:fill-box;
+}
+#undraw_progressive_app_m-9-ms-s-g2{
+  animation: mano2  3.1s ease-in-out infinite alternate ;
+
+  transform-origin: left;
+  transform-box:fill-box;
+
+}
+@keyframes mano{
+  0%{
+   transform:translate(1.000001px, 1.000001px) rotate(-11deg);
+  }
+  10%{
+    transform:translate(1.000001px, 1.000001px) rotate(-11deg);
+
+  }
+}
+@keyframes mano2{
+  0%{
+   transform:translate(1.000001px, 1.000001px)  rotate(11deg);
+  }
+  100%{
+    transform:translate(1.000001px, 1.000001px)  rotate(-11deg);
+
+  }
+}
+#undraw_progressive_app_m-9-ms-s-g4{
+  animation: brazo  0.7s infinite alternate ;
+  transform-origin: bottom;
+  transform-box:fill-box;
+  
+}
+@keyframes brazo{
+  10%{
+    transform: translate(0.000001px, 0.000001px) rotate(-5deg);
+  }
+  0%{
+    transform: translate(0.000001px, 0.000001px) rotate(-5deg);
+  }
+}
 /*.sticky {
   position: fixed;
   top: 0;
