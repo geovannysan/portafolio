@@ -12,6 +12,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
     crossorigin="anonymous"></script>
+    <style>
+    </style>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
     integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
     crossorigin="anonymous"></script>
@@ -21,6 +23,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
   <link rel="stylesheet" href="css/computer.css">
    <link rel="stylesheet" href="mystyle.css">
+   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title> Portafolio </title>
   
@@ -144,22 +152,29 @@
 </nav>
 <!-- Navbar -->
 <!-- Navbar -->
-<header>
-  <div class="">
-       
-        <div class="row ">
-        <div class="col-lg-6 container codigo" >
-          <div class="content">
-            <p class="line anim-typewriter">Si el código funciona, no lo toques.</p>
-             <h1 >Header Content</h1>
 
+  <!--Header-->
+  <header>
+    <div class="container-fluid px-0 header py-3">
+      <div class="row container-fluid   px-0">
+        <div class="col-12 col-lg-6 container d-flex  justify-content-center codigo px-0 " >
+          <div class="content  btn-group-vertical " style="margin-top: -10% !important;">
+            <h1 style="font-family: 'Press Start 2P', cursive; font-size: 25px;">Hola soy Geovanny Chávez</h1>
+            <p class="pt-3" style="font-family: 'Press Start 2P', cursive; font-size: 0.9em;">
+              Si estas aquí siginifica que te interesa mi perfil puedes revisar con confianza</p>
+          
+            <p class="line anim-typewriter " 
+            style="font-family: 'Press Start 2P', cursive; font-size: 0.9em;">
+              Si nesecitas mas información puedes llamar</p>
+            
+  
           </div>
         </div>
-        <div class="col-lg-6 " >
+        <div class="col-12 col-lg-6 py-4" style="z-index: 2;" >
           <div class="program content">
             <div style="height: 100%;width: 100%;">
               
-              <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 786.81995 572.25773"
+              <svg  xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 786.81995 572.25773"
                 xmlns:xlink="http://www.w3.org/1999/xlink">
                 <circle cx="458.32136" cy="74.18162" r="26.70075" fill="#f2f2f2" class="svg-program-1"></circle>
                 <path
@@ -402,29 +417,41 @@
                   d="M750.58227,625.3079c-.01,1.75-.03,4.2-.11,7.23-.01.42-.03.85-.04,1.29-.1,4.25-.25,9.5-.46,15.43-.01.36-.02.71-.04,1.07-.28,7.24-.72,15.67-1.48,29.02-1.41,24.66-3.87,3.39-6.34,12.04-6.86-4.22-14.38-8.64-22.42-13.18q-2.175-1.23-4.39-2.47c-16.08-8.97-34.04-18.37006-52.79-27.68-.74-.37-1.49-.74-2.23-1.1-42.95-21.23-89.83-41.88-127.81-55.66-7.33-2.66-14.33-5.06-20.91-7.17005-13.86-4.43-25.84-7.53-35.06-8.87-9.6-1.4-16.23-.9-18.91,1.99q-.15006-3.06-.31-5.86-.06006-.93-.12-1.83c.06171-.16462.14191-.32172.21955-.48017.01111-.02313.019-.047.03045-.06982a1.002,1.002,0,0,1,.07-.15,1.62294,1.62294,0,0,1,.1-.18,1.05985,1.05985,0,0,1,.12-.2c.09-.14.19-.29.3-.43a3.48261,3.48261,0,0,1,.26-.30005.637.637,0,0,1,.11-.13c.04-.04.08-.09.13-.13995a.30159.30159,0,0,1,.08-.08,2.03313,2.03313,0,0,1,.26-.25,9.62387,9.62387,0,0,1,1.14-.9c.13995-.09.29-.18.43-.28a19.13528,19.13528,0,0,1,3.17-1.52c.38-.14.76-.27,1.17-.41.15-.04.29-.09.44-.14.22-.07.44-.14.67-.19,1.14-.34,2.37-.63,3.7-.9.4-.08.82-.16,1.24-.23.34-.06.69-.12,1.04-.18,2.97-.47,6.34-.82,10.06-1.05q.525-.03,1.05-.06c.41-.02.82-.04,1.24-.06.35-.02.71-.03,1.07-.04.35-.02.71-.03,1.08-.04,1.01-.03,2.05-.06,3.11-.08,3.02-.05,6.2-.03,9.54.04,1.55.03,3.13.08,4.75.15.1,0,.21.01.31.01,1.41.04,2.84.11,4.29.18,1.02.05,2.05.1,3.07995.16.97.06,1.95.12,2.94.19.77.04,1.54.1,2.32.15.66.05,1.32.1,1.98.14.79.06,1.58.12,2.38.18,1.1.09,2.2.18,3.32.27,1.11.1,2.24.2,3.37.3s2.27.21,3.41.32c.12.01.23.02.34.03,1.04.11005,2.08.21,3.13.32q8.73.885,17.97,2.07,5.52.705,11.18,1.51c5.73.81,11.55,1.69,17.41,2.63q8.80509,1.425,17.71,3.01c1.5.27,3,.54,4.51.82q2.76.50994,5.52,1.04c1.16.22,2.32.44,3.48.67,1.38.27,2.77.54,4.15.81,9.09,1.8,18.12994,3.72,26.95,5.73,1.45.32995,2.9.67,4.34,1q4.32,1.005,8.56,2.04c.78.19,1.55.38,2.32.57q2.895.72,5.73,1.44v.01c.11.02.22.05.33.08,1.38.35,2.75.7,4.11,1.06q4.815,1.26,9.47,2.54c2.06.57995,4.1,1.15,6.11,1.73,3.01.88,5.96,1.76,8.83,2.64.71.22,1.42.44,2.12.65q3.15.99,6.18,1.97c1.6.52,3.16,1.05,4.7,1.58q2.31.795,4.53,1.59c.96.34,1.9.69,2.83,1.03,1.36.5,2.68,1,3.98,1.51.4.15.79.31,1.18.46.73.28,1.44.57,2.14.86.47.18.93.37,1.39.57.45.18.91.37,1.35.56.45.18.89.37,1.33.57.37.15.73.31,1.08.47.71.31,1.42.62,2.11.94.34.16.68.31,1.02.47l.78.36c.11.06.22.11.33.16.85.4,1.67.8,2.47,1.2.75.38,1.48.76,2.18,1.13.83.43994,1.62.87,2.38,1.31.15.07995.3.17.45.25.51.29,1,.59,1.49.87994.96.59,1.87,1.17,2.72,1.75.84.58,1.62,1.15,2.35,1.72,0,.01,0,.01.01.01.35.28.69.56,1.01.83.52.45,1,.87994,1.44,1.32a5.667,5.667,0,0,1,.42.43,1.20839,1.20839,0,0,1,.16.16c.21.23.42.46.62006.69.24.28.46.56.67.84.1.14.21.28.3.42.12.17.24.35.34.52.09.14.17.29.25.43006a7.2566,7.2566,0,0,1,.54,1.12994,6.05312,6.05312,0,0,1,.27.82A5.84442,5.84442,0,0,1,750.58227,625.3079Z"
                   transform="translate(-206.59003 -163.87113)" opacity="0.2" class="svg-program-104"></path>
               </svg>
-
+  
             </div>
-
-
+  
+  
           </div>
         </div>
-
       </div>
+      <svg class="svg" xmlns="http://www.w3.org/2000/svg" viewBox="-300 0 950 270">
+        <path d="M-314,267 C105,364 400,100 812,279" fill="none" stroke="white" stroke-width="120"
+            stroke-linecap="round" />
+    </svg>
+  
     </div>
-        <svg class="svg" xmlns="http://www.w3.org/2000/svg" viewBox="-300 0 950 270">
-            <path d="M-314,267 C105,364 400,100 812,279" fill="none" stroke="white" stroke-width="120"
-                stroke-linecap="round" />
-        </svg>
-    </header>
-
-
-    <section class="primero">
-      
-      
-      
-    </section>
+  </header>
+    <!--Planes-->
+    <div class="bg-white justify-content-center ">
+      <div class=" justify-content-center text-center">
+        <h2 style="font-size: 4.2rem;"><span class=" fw-bold" style="color: rgb(15, 15, 15);">Acerca</span> 
+  
+          <div class="px-5 d-flex flex-wrap justify-content-center">
+            <div class="col-12  d-flex text-center justify-content-center">
+            <div class="">
+              <img class="img-fluid" src="https://media.tenor.com/sUxC9JBBxOcAAAAC/idea-merry.gif">
+  
+            </div>
+            </div>
+            <div class="col-9">
+            <samp class=" text-black px-5" style="font-size: 38px; color: black !important;">
+              Soy un desarollador de software, apacionado por la porgramción con ganas de aprender mas de las nuevas tegnologias 
+            </samp>
+            </div>
+          </div>
+        </div>
+    </div>
     <section class="about" >
-       <h1 style="color: black;">Acerca</h1>
     <div class="diagonal-shape bl-to-tr" ></div>
 <div class="row  block" >
         <div class="col-lg-6 container" style=" padding-left:   5%;padding-right: 5%;">
@@ -460,14 +487,20 @@
 </section>
    
   </div>
- <section class="">
+ <section class=" container">
       <div class="">
         <div class="row">
-          <div class="col-lg-6">
-          
+          <div class="container py-0 mt-n4 " >
+            <section class="logo-carousel slider" data-arrows="true" style="z-index:1">
+              <div class="slide"><img style="height: 80px; width: 80px;margin-left: 35%; filter: grayscale(80%);" src="img/programas/html_desarrollo_web.png"></div>
+              <div class="slide"><img style="height: 80px; width: 80px;margin-left: 35%; filter: grayscale(80%);" src="img/programas/css_lenguaje.png"></div>
+              <div class="slide"><img style="height: 80px; width: 80px;margin-left: 35%; filter: grayscale(80%);" src="img/programas/csharp_windows_lenguaje.png"></div>
+              <div class="slide"><img style="height: 80px; width: 80px;margin-left: 35%; filter: grayscale(80%);" src="img/programas/netcore_programacion.png"></div>
+              <div class="slide"><img style="height: 80px; width: 80px;margin-left: 35%; filter: grayscale(80%);" src="img/programas/java_lenguaje_programacion.png"></div>
+              <div class="slide"><img style="height: 80px; width: 80px;margin-left: 35%; filter: grayscale(80%);" src="img/programas/php_lenguaje_progrramacion.png"></div>
+              <div class="slide"><img style="height: 80px; width: 80px;margin-left: 35%; filter: grayscale(80%);" src="img/programas/adobe_creative_cloud_logo.png" ></div>
+            </section>
           </div>
-         <div class="col-lg-6">
-          
          </div>
         </div>
       </div>      
@@ -484,5 +517,29 @@
 
 </body>
 <script src="like_button.js"></script>
+<script>
+  $(document).ready(function() {
+$('.logo-carousel').slick({
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 1000,
+  arrows: true,
+  dots: false,
+  pauseOnHover: false,
+  responsive: [{
+    breakpoint: 768,
+    settings: {
+      slidesToShow: 4
+    }
+  }, {
+    breakpoint: 520,
+    settings: {
+      slidesToShow: 3
+    }
+  }]
+});
+});
+</script>
 
 </html>
