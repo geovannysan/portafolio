@@ -149,6 +149,9 @@ filter: FlipV; /* Internet Explorer */
   border-width: 0 0 100px 100vw;
   border-color: transparent #2596be #2596be transparent;
 }
+.about{
+  background-color: #2596be !important;
+}
 .diagonal-shape.tr-to-bl {
   height: 0;
   width: 100%;
@@ -317,4 +320,18 @@ filter: FlipV; /* Internet Explorer */
 /* JsFiddle Example only/don't use */
 .logo-carousel {
   margin-top: 32px;
+}
+
+.code-container {
+  border-radius: 5px; /* Bordes redondeados */
+}
+pre{
+  border-radius: 10px;
+}
+
+ code {
+  text-align: left !important; 
+  display: block; 
+  white-space: pre-wrap; 
+  border-radius: 10px;
 }
