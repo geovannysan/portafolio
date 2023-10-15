@@ -3,14 +3,9 @@
     @import url(https://fonts.googleapis.com/css?family=Exo&display=swap);
 
     /* Global */
-    html {
-      min-height: 100%;
-
-    }
 
     body {
 
-      margin: 0;
       color: rgba(255, 255, 255, 0.75);
       font-family: 'Exo';
 
@@ -54,16 +49,11 @@ filter: FlipV; /* Internet Explorer */
       overflow: hidden;
 
       border-right: 2px solid rgba(255, 255, 255, 0.75);
-      width: 20em;
+      width: 23em;
       white-space: nowrap;
       
 
 
-    }
-    .container{
-
-         align-items: center;
-  justify-content: center;
     }
     .codigo{
       display: flex;
@@ -108,15 +98,16 @@ filter: FlipV; /* Internet Explorer */
   justify-content: center;
 
       }
-       header {
-        position: relative;
-        height: 540px;
-        background: #2596be;
-        background-image: linear-gradient(155deg, #2596be 0%, #2596be 50%, #138b89 100%);
-       
+     
+.header {
+  position: relative;
+  height: 540px;
+  background: #2596be;
+  background-image: linear-gradient(155deg, #2596be 0%, #2596be 50%, #138b89 100%);
+  border-bottom: #fff solid !important;
+ 
 
-    }
-
+}
     header h1 {
         color: white;
 
@@ -151,29 +142,6 @@ filter: FlipV; /* Internet Explorer */
 }
 .about{
   background-color: #2596be !important;
-}
-.diagonal-shape.tr-to-bl {
-  height: 0;
-  width: 100%;
-  margin: 0;
-  border-style: solid;
-  border-width: 100px 100vw 0 0;
-  border-color: #2596be transparent transparent #2596be;
-}
-.diagonal-shape.tl-to-br {
-  height: 0;
-  width: 100%;
-  margin: 0;
-  border-style: solid;
-  border-width: 0 100vw 100px 0;
-  border-color: transparent transparent #2596be #2596be;
-}
-.diagonal-shape.br-to-tl {
-  height: 0;
-  width: 100%;
-  border-style: solid;
-  border-width: 100px 0 0 100vw;
-  border-color: #2596be #0F62FE transparent transparent;
 }
 
 .block {
@@ -244,45 +212,7 @@ filter: FlipV; /* Internet Explorer */
 
 
 
-/* Slider */
-.slick-slide {
-  margin: 0px 20px;
-}
-
-.logo-carousel {
-  overflow: inherit;
-}
-
-.slick-slide img {
-  width: 100%;
-}
-
-.slick-track::before,
-.slick-track::after {
-  display: table;
-  content: '';
-}
-
-.slick-track::after {
-  clear: both;
-}
-
-.slick-track {
-  padding: 1rem 0;
-}
-
-.slick-loading .slick-track {
-  visibility: hidden;
-}
-
-.slick-slide.dragging img {
-  pointer-events: none;
-}
-
-.slick-loading .slick-slide {
-  visibility: hidden;
-}
-
+/*
 .slick-arrow {
   position: absolute;
   top: 40%;
@@ -313,6 +243,18 @@ filter: FlipV; /* Internet Explorer */
   .slick-arrow {
     width: 1rem;
     height: 1rem;
+  }
+}
+@media only screen and (max-width: 600px){
+  .sobremi{
+    font-size: 15px !important;
+    padding: 0px !important;
+  }
+  .nombre{
+    font-size: 30px !important;
+  }
+  .code-container{
+    padding-top: -10px !important;
   }
 }
   
