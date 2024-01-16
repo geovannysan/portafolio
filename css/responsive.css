@@ -270,7 +270,9 @@
 
 
 }
-
+.svg-computer{
+	height: 650px; ;
+}
 /* Small Devices Potrait */
 @media (max-width : 767px){
 
@@ -279,9 +281,13 @@
 	.parallax{
 		padding: 60px 0;
 	}
+	.svg-computer{
+		height: 300px;
+	}
+	/*
 	.style-switch-button{
 		display: none;
-	}
+	}*/
 
 	.heading{
 		text-align: center;
