@@ -146,32 +146,20 @@ jQuery(function ($) {
 
 
   //Clients
-$("#client-carousel").owlCarousel({
-  navigation: false,
-  slideSpeed: 400,
-  pagination: true,
-  items: 6,
-  rewindNav: true,
-  itemsDesktop: [1199, 3],
-  itemsDesktopSmall: 2,
-  stopOnHover: true,
-  autoPlay: true,
-  center:true,
-  responsive: {
-    0: {
-      items: 4 // Muestra 4 elementos en pantallas pequeñas (menos de 600px de ancho)
-    },
-    600: {
-      items: 5 // Muestra 2 elementos en pantallas de 600px o más ancho
-    },
-    900: {
-      items: 6 // Muestra 3 elementos en pantallas de 900px o más ancho
-    },
-    1200: {
-      items: 6 // Muestra 4 elementos en pantallas de 1200px o más ancho
-    }
-  }
-});
+
+  $("#client-carousel").owlCarousel({
+
+    navigation: false, // Show next and prev buttons
+    slideSpeed: 400,
+    pagination: true,
+    items: 6,
+    rewindNav: true,
+    itemsDesktop: [1199, 3],
+    itemsDesktopSmall: 2,
+    stopOnHover: true,
+    autoPlay: true
+
+  });
 
   //App gallery
   $("#app-gallery-carousel").owlCarousel({
